@@ -1,2 +1,4 @@
 # veerdoi
 this is a my first repository
+auther-veer gurjar
+
